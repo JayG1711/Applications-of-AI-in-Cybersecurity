@@ -169,5 +169,3 @@ As cyber threats evolve, the partnership between **AI systems and cybersecurity 
 
 ---
 
-
-12. `Future_AI_Cybersecurity.png` – Futuristic human–AI collaboration graphic
